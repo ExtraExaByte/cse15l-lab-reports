@@ -13,9 +13,12 @@ System.out.println("Hi");
 
 *This is italics*
 **This is Bold**
-#This is a heading
-[This is a link} (https://extraexabyte.github.io/cse15l-lab-reports/newFile.md)
-![Image](http://url/IMG_8373.jpeg)
+
+# This is a heading
+
+[This is a link] (https://extraexabyte.github.io/cse15l-lab-reports/newFile.html)
+
+
 >This is a block quote
 >and so is this
 
