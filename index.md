@@ -4,6 +4,11 @@
 # How to print in Java:
 System.out.println("Hi");
 ```
+
+
+[Lab Report 1](lab-report-1-week-2.html)
+
+
 *This is italics*
 **This is Bold**
 #This is a heading
