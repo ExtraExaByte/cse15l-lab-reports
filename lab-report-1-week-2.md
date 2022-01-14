@@ -105,7 +105,7 @@ Now that we understand some basic commands, lets use some more
 
 
 <br><br><br><br>
-## Moving files 
+## Moving files with scp
 
 As you can imagine, copying and pasting files and text is immensly useful.  It should be no suprise that copying a file from your client to the server would be essential.  This is done with the ```scp``` command which stands for Secure CoPy.
 
