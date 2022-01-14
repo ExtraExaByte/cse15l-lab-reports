@@ -155,10 +155,7 @@ Replacing the XXX with your user name that you stored the keys in.  Now you shou
 Since you will be running a lot of commands on your server and having to switch back and fourth to your client, it helps to do multiple things at once.
 
 A great example would be SSH-ing into our machine, compiling our java program, and running it all in one press of enter.  That can be done by compounding the code like such:
-```
-$ ssh cs15lwi22@ieng6.ucsd.edu; javac WhereAmI.java; java WhereAmI
-
-```
+![Photo](https://extraexabyte.github.io/cse15l-lab-reports/command.png)
 
 This will run the three commands all at one.
 
