@@ -83,16 +83,19 @@ After you type 'yes', you will need to enter your password and press enter to co
 ## Trying some commands
 
 Now that you've sucessfully remotely connected to the ieng6 server, lets try out some commands.
-
 Try entering the following commands:
 
-```ls```
+```
+ls
+```
 
 This should list the directories on your machine.
 
 Next,
 
-```ls -a```
+```
+ls -a
+```
 
 will list all directories, including ones that are usually hidden.
 ![Image](https://extraexabyte.github.io/cse15l-lab-reports/ls.png)
