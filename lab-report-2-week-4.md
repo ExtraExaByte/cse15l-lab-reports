@@ -11,7 +11,7 @@ This week, we covered making code changes on a forked repository.  We addressed 
 ![Image](https://extraexabyte.github.io/cse15l-lab-reports/testCase3.png)
 
 <br><br><br>
-We were prompted to make there changes based on [this](https://extraexabyte.github.io/cse15l-lab-reports/break3.md) test file.
+We were prompted to make these changes based on [this](https://extraexabyte.github.io/cse15l-lab-reports/break3.md) test file.
 
 
 When this file was run, it resulted in an incorrect output:
@@ -32,7 +32,7 @@ The markdown code for an image and a link are nearly indistiguishable to an untr
 ![Image](https://extraexabyte.github.io/cse15l-lab-reports/error9.png)
 
 <br><br><br>
-We were prompted to make there changes based on [this](https://extraexabyte.github.io/cse15l-lab-reports/break9.md) test file.
+We were prompted to make these changes based on [this](https://extraexabyte.github.io/cse15l-lab-reports/break9.md) test file.
 
 
 When this file was run, it resulted in an out of bounds exception:
