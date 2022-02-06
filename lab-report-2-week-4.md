@@ -65,6 +65,7 @@ When this file was run, it resulted in an infinite loop:
 
 When the test file was run that included additional text after the link, it resulted in an infinite loop because the while loop condition was not satisfied, the current index wouldn't increase so it was always less than 
 > markdown.length()
+
 This error was solved by checking if there is another open bracket indicating a potential link following the first one, otherwise it will break the while loop.
 
 
