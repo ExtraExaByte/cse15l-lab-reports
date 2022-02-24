@@ -106,4 +106,17 @@ I implemented the junit tests as shown below:
 The tests failed, resulting in the following output:
 ![Image](https://extraexabyte.github.io/cse15l-lab-reports/Lab4/snip3test.png)
 
+<br><br><br><br><br>
+# Questions and Answers:
 
+
+### Snippet 1
+I believe that a small code change could be made to not add the link to the return list if there is a back tick before the brackets of the link.  This can be done with a simple if statement near the top of the while loop, returning nothing with the previously mentioned case.
+
+<br><br><br>
+### Snippet 2
+I believe that a simple fix can be made to correct similar cases by checking if any bracket or parenthesis is escaped before updating the index.  This would be a simple fix that will address many potential issues.
+
+<br><br><br>
+### Snippet 3
+I believe this will be a much more involved update for similar cases to work.  Since it is spanning over multiple lines, line breaks, and graps between parenthesis, there is a lot of changes that will need to account for different cases of the links spanning over multiple lines.
