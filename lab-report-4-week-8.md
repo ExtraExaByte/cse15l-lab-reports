@@ -2,7 +2,7 @@
 
 
 
-This week we will be returning to MarkdownParse with three new snippits to test against our implementation of MarkdownParse in addition to the professor's.
+This week we will be returning to MarkdownParse with three new snippits to test against our implementation of MarkdownParse in addition to the implementation we reviewed's.
 
 <br><br>
 
@@ -10,7 +10,7 @@ This week we will be returning to MarkdownParse with three new snippits to test 
 
 [My Implementation](https://github.com/ExtraExaByte/markdown-parse)
 
-[Professors Implementation](https://github.com/ucsd-cse15l-w22/markdown-parse)
+[Implementation we Reviewed](https://github.com/nakulnandhakumar/markdown-parse)
 
 
 <br><br><br><br>
