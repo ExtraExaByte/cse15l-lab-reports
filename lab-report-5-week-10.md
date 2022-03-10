@@ -39,7 +39,7 @@ if(markdown.indexOf("\"") != -1){
 Here is the vimdiff output for file22.md:
 ![File32](https://extraexabyte.github.io/cse15l-lab-reports/Lab5/File32Error.png)
 
-As before, the left is my implementation and the right is the professors.
+As before, the left is my implementation and the right is the professors.  In this case, the professors implementation is correct according to VSCode preview and CommonMark preview.
 This bug required some investigation to fix.  
 It may be disceeving that this is another case of having quotation marks in the link, but that is not the only case.  Our implementation reached the space character in the link which caused it to break. To fix this, we had to implement some interesting logic-ed code:
 
